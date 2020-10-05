@@ -1,0 +1,53 @@
+body {
+  background-color: white;
+  margin: 15px;
+  text-align: center;
+}
+
+hr {
+  border-style: none dashed;
+  border-color: black;
+  border-bottom-style: double;
+  border-top-style: dotted;
+  border-width: 5px;
+  margin-top: 0px;
+  width: 95%;
+}
+
+.potato {
+  border-color: red;
+}
+
+#title {
+  color: darkred;
+  size: 2.5px;
+}
+#potato {
+  color: brown;
+  size: 3px;
+}
+.break {
+  width: 95%;
+  background-color: gold;
+  border: solid;
+  border-width: 1px 3px 5px 3px;
+  padding: 5px;
+  margin: 15px;
+}
+.education {
+  cellspacing: 30px;
+  text-align: center;s
+}
+
+.table2 {
+  cellspacing: 25px;
+  text-align: center;
+}
+.story {
+  text-align: center;
+}
+.main {
+  width: 50%;
+  margin: 15px auto 150px auto;
+  text-align: center;
+}
